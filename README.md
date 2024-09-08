@@ -1,15 +1,13 @@
 #   Fitvision - Yoga Pose Detection And Correction System using Machile Learning
 
 In today's fast-paced world, maintaining a healthy lifestyle can often feel like a
-daunting task. AsanaAi, a groundbreaking web-based application, aims to simplify
+daunting task. Fitvision, a groundbreaking web-based application, aims to simplify
 and enhance the journey towards physical and mental well-being through the power
 of artificial intelligence (AI) and machine learning (ML).
 
-AsanaAi is not just another fitness app; it's a comprehensive tool designed to cater
+Fitvision is not just another fitness app; it's a comprehensive tool designed to cater
 to various aspects of holistic health, ranging from yoga practice to cardiovascular
 workouts, and even mental well-being.
-
-![image](https://github.com/Turwash/AsanaAi/assets/121122397/cf7b552a-00bc-4e52-be02-588fe5769319)
 
 ## 1. Yoga Pose Detector:
 With the help of advanced Pretrained TensorFlow Js technology's PoseNet Model, AsanaAi accurately
@@ -33,13 +31,6 @@ monitors your progress with precision and Counts your Squats by speech.
 This is a Cardio Section with 8 Different Cardio Modules
 - Eight Cardio Section Includes : Squats Counter, Boxing Challenge, Push-up, Pullup, Skipping, Shoulder Press, Lateral Raises and Jumping Jacks
 All to be mentored and counted by ML
-
-## 4. Android Application:
-In addition to its web-based platform, AsanaAi extends its reach to Android devices,
-offering users the convenience of fitness and wellness on the go. Leveraging
-TensorFlow Lite for pose estimation and K-means clustering for accurate exercise
-counting, the Android app ensures seamless integration of AI technologies into
-users' daily routines, making fitness more accessible and engaging than ever before.
 
 ## 5. Meditation Module:
 Recognizing the importance of mental well-being, AsanaAi incorporates custom
