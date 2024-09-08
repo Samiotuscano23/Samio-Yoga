@@ -9,6 +9,11 @@ Fitvision is not just another fitness app; it's a comprehensive tool designed to
 to various aspects of holistic health, ranging from yoga practice to cardiovascular
 workouts, and even mental well-being.
 
+
+![image](https://github.com/Turwash/AsanaAi/assets/121122397/cf7b552a-00bc-4e52-be02-588fe5769319)
+
+
+
 ## 1. Yoga Pose Detector:
 With the help of advanced Pretrained TensorFlow Js technology's PoseNet Model, AsanaAi accurately
 detects and analyzes yoga poses in real-time. Whether you're a beginner seeking
