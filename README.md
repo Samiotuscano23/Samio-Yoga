@@ -1,4 +1,4 @@
-# AsanaAi - Yoga Pose Detection And Correction System using Machile Learning
+#   Fitvision - Yoga Pose Detection And Correction System using Machile Learning
 
 In today's fast-paced world, maintaining a healthy lifestyle can often feel like a
 daunting task. AsanaAi, a groundbreaking web-based application, aims to simplify
